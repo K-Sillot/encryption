@@ -1,4 +1,4 @@
-module github.com/siyuan-note/encryption
+module github.com/K-Sillot/encryption
 
 go 1.16
 
